@@ -1,5 +1,5 @@
 # coding=utf-8
-#获取图片所在网页的地址，以及新建文件夹 
+#鑾峰彇鍥剧墖鎵�鍦ㄧ綉椤电殑鍦板潃锛屼互鍙婃柊寤烘枃浠跺す 9999
 import urllib
 import urllib2
 import re
