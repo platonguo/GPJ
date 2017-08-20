@@ -1,5 +1,5 @@
 # coding=utf-8
-#获取图片所在网页的地址，以及新建文件夹 9999999999999
+#获取图片所在网页的地址，以及新建文件夹 9999988
 import urllib
 import urllib2
 import re
